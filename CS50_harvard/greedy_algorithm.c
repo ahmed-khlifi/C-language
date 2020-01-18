@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <math.h>
 // this program created during sloving problems in CS50 from harvard university
-// this program take an amont and give the minimal number of change for it 50 10 5 1
+// this program take an amont and give the minimal number of change for it 25 10 5 1
 int main(void)
 {
     int coins = 0; // number of coins counter
