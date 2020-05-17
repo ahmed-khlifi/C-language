@@ -1,3 +1,7 @@
+// this program manupilate a linked list
+// creating list , adding nodes in the begining/end or in in sorted list
+// deletting,  searching ..
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
